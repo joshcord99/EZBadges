@@ -3,7 +3,7 @@
 This app gives the ability to add employee information from the CLI or pull from a company API to create employee badges. This app was built using **C#**.
 
 
-## Tools and Technologies You’ll Use:
+## Tools and Technologies Used:
 
 
 **.NET Core SDK**
