@@ -9,7 +9,11 @@ This app gives the ability to add employee information from the CLI or pull from
 **.NET Core SDK**
    - The **Software Development Kit (SDK)** for .NET Core includes:
    - Purpose: 
-       - Enabled reading and writing to the file system, querying APIs, and generating images.
+       - Enabled reading and writing to the file system, querying APIs, command line prompting and generating images.
+   - Libraries:
+       - Spectre.Console : command line prompting
+       - Newtonsoft.Json : querying API
+       - SkiaSharp : generating images
     
 **SkiaSharp**
    - A **.NET package** that provides powerful graphics functionality.
